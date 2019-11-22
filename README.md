@@ -27,33 +27,35 @@ Accomplished manager
 
 ## Technology
 I am an avid technologist curious of everything
-#### I have a focus on networks
-- DC network fabrics
+#### Large breath of knowledge in systems and networks
+- Linux administration
+- Webscale Systems design
+- Operating system internals
+- Automation frameworks ( homegrown, Ansible, Chef )
+- Container tech
+- Datacenter IP network fabric underlays
 - Network protocols
 - WAN design
 - ISP operations
 - BGP
-- Network hardware
+- Networking and compute hardware
 - SONiC
-- Automation ( Ansible, Chef, SaltStack)
 - Optical Line Systems ( basic )
 - P4 ( introductory )
 
 #### Datacenter:
 - Cooling systems
 - Electrical onelines
-- DC management
-- DC selection and due process
+- DataCenter management
+- DataCenter selection and due process
 - Supply chain management
-- OCP
-
-#### Systems:
-- Linux admin
+- RFP RFQ RFO processes
+- Open Compute Project
 
 #### Software:
-- I am not a developer but I can code to save my life
-- Preferred languages are C and Python
-- I am highly adaptable and can learn the language of the day ( as long as it's not Ruby, lisp or other exercise in style )
+- I can code to save my life
+- Preferred languages are Python and C
+- I am highly adaptable and can learn the language of the day ( not a fan of ruby, lisp or other exercise in style )
 - CI/CD git gerrit jenkins
 
 and a bunch of other stuff
@@ -86,7 +88,7 @@ C, shell, python to various levels
 - flying ( SEP PPL )
 - RC flying
 - woodworking
-- robotics / automation ( home, astronomy gear, 3d manufacturing )
+- robotics / automation ( home, astronomy gear, 3d manufacturing, Arduino )
 - photography
 - travel
 
