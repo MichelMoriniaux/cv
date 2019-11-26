@@ -1,9 +1,11 @@
-# Experienced leader in the fields of Datacenter infrastructure, Networks and SRE
+# Experienced SRE leader
 
 # Abstract
-20 years of experience in major Telecom, ISP and datacenter network engineering.
+20 years of experience in major Telecom, ISP and datacenter engineering.
 My job is to manage and contribute to a team that designs and operates a world-class web-scale network of datacenters that provides computational power and connectivity to our Performance Marketing product.
 I believe in automating myself out of my job and creating the next generation of open datacenter technologies.
+
+I have extensive experience in web scale systems operations, from design to building and managing the teams and their systems. 
 
 For the past 10 years I have soft managed engineering and production teams
 
