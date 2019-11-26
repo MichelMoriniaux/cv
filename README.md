@@ -97,7 +97,7 @@ C, shell, python to various levels
 # Work Experience
 ## [Criteo](http://www.criteo.com "Criteo's Homepage"), AdTech global leader in retargeting solutions, 2014 to present
 2.5B revenue, 2.7K employees, 8 datacenters around the world 2MW minimum footprint, Global nx100G WAN
-### The US adventure, 2017 to present
+### The US adventure, Applying my talents to a larger scope, 2017 to present
 I built a project to move to our US office to create a set of teams that leverage the talent pool of the Valley and be as close as possible to where innovation is happening.
 Over the past 3 years I've built 3 teams from scratch two of which where totally outside of my comfort zone and areas of expertise.
 * A DBA team (3): The primary need of the Palo Alto office was to have a set of resident DataBase Administrators to help them with our SQL stack, I worked with our Paris HQ DBA teams to recruit local talent and managed to secure an experienced internal mobility to lead the team.
