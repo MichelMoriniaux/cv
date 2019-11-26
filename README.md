@@ -1,11 +1,9 @@
-# Experienced SRE leader
+# Experienced leader in the fields of Datacenter infrastructure, Networks and SRE
 
 # Abstract
-20 years of experience in major Telecom, ISP and datacenter engineering.
+20 years of experience in major Telecom, ISP and datacenter network engineering.
 My job is to manage and contribute to a team that designs and operates a world-class web-scale network of datacenters that provides computational power and connectivity to our Performance Marketing product.
 I believe in automating myself out of my job and creating the next generation of open datacenter technologies.
-
-I have extensive experience in web scale systems operations, from design to building and managing the teams and their systems. 
 
 For the past 10 years I have soft managed engineering and production teams
 
@@ -29,35 +27,33 @@ Accomplished manager
 
 ## Technology
 I am an avid technologist curious of everything
-#### Large breath of knowledge in systems and networks
-- Linux administration
-- Webscale Systems design
-- Operating system internals
-- Automation frameworks ( homegrown, Ansible, Chef )
-- Container tech
-- Datacenter IP network fabric underlays
+#### I have a focus on networks
+- DC network fabrics
 - Network protocols
 - WAN design
 - ISP operations
 - BGP
-- Networking and compute hardware
+- Network hardware
 - SONiC
+- Automation ( Ansible, Chef, SaltStack)
 - Optical Line Systems ( basic )
 - P4 ( introductory )
 
 #### Datacenter:
 - Cooling systems
 - Electrical onelines
-- DataCenter management
-- DataCenter selection and due process
+- DC management
+- DC selection and due process
 - Supply chain management
-- RFP RFQ RFO processes
-- Open Compute Project
+- OCP
+
+#### Systems:
+- Linux admin
 
 #### Software:
-- I can code to save my life
-- Preferred languages are Python and C
-- I am highly adaptable and can learn the language of the day ( not a fan of ruby, lisp or other exercise in style )
+- I am not a developer but I can code to save my life
+- Preferred languages are C and Python
+- I am highly adaptable and can learn the language of the day ( as long as it's not Ruby, lisp or other exercise in style )
 - CI/CD git gerrit jenkins
 
 and a bunch of other stuff
@@ -90,14 +86,14 @@ C, shell, python to various levels
 - flying ( SEP PPL )
 - RC flying
 - woodworking
-- robotics / automation ( home, astronomy gear, 3d manufacturing, Arduino )
+- robotics / automation ( home, astronomy gear, 3d manufacturing )
 - photography
 - travel
 
 # Work Experience
 ## [Criteo](http://www.criteo.com "Criteo's Homepage"), AdTech global leader in retargeting solutions, 2014 to present
 2.5B revenue, 2.7K employees, 8 datacenters around the world 2MW minimum footprint, Global nx100G WAN
-### The US adventure, Applying my talents to a larger scope, 2017 to present
+### The US adventure, 2017 to present
 I built a project to move to our US office to create a set of teams that leverage the talent pool of the Valley and be as close as possible to where innovation is happening.
 Over the past 3 years I've built 3 teams from scratch two of which where totally outside of my comfort zone and areas of expertise.
 * A DBA team (3): The primary need of the Palo Alto office was to have a set of resident DataBase Administrators to help them with our SQL stack, I worked with our Paris HQ DBA teams to recruit local talent and managed to secure an experienced internal mobility to lead the team.
