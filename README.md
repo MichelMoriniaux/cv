@@ -1,7 +1,7 @@
-# Experienced leader in the fields of Datacenter infrastructure, Networks and SRE
+# Experienced leader in the fields of Network, Datacenter infrastructure and SRE
 
 # Abstract
-20 years of experience in major Telecom, ISP and datacenter network engineering.
+20 years of experience in major Telecom, ISP and datacenter network engineering and operations.
 My job is to manage and contribute to a team that designs and operates a world-class web-scale network of datacenters that provides computational power and connectivity to our Performance Marketing product.
 I believe in automating myself out of my job and creating the next generation of open datacenter technologies.
 
@@ -53,7 +53,7 @@ I am an avid technologist curious of everything
 #### Software:
 - I am not a developer but I can code to save my life
 - Preferred languages are C and Python
-- I am highly adaptable and can learn the language of the day ( as long as it's not Ruby, lisp or other exercise in style )
+- I am highly adaptable and can learn the language of the day
 - CI/CD git gerrit jenkins
 
 and a bunch of other stuff
