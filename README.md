@@ -2,12 +2,12 @@
 
 # Abstract
 20 years of experience in major Telecom, ISP and datacenter engineering.
-My job is to manage and contribute to a team that designs and operates a world-class web-scale network of datacenters that provides computational power and connectivity to our Performance Marketing product.
-I believe in automating myself out of my job and creating the next generation of open datacenter technologies.
+My job is to manage and contribute to teams that design and operate a world-class web-scale network of datacenters that provides computational power and connectivity to our Performance Marketing product.
+I believe in automating myself out of my job and creating the next generation of open automation technologies.
 
 I have extensive experience in web scale systems operations, from design to building and managing the teams and their systems. 
 
-For the past 10 years I have soft managed engineering and production teams
+For the past 10 years I have soft managed engineering and production operations teams
 
 For the past 5 years I have successfully held positions of tech-lead, team lead and engineering manager for global teams ( Europe/US/China ).
 
@@ -25,7 +25,7 @@ Accomplished manager
 - I consistently score in the top 1% of the company's manager surveys.
 - I have a very hands-off style, I trust the people I manage to do their best and they reciprocate that trust by going above and beyond.
 - I use adapted Agile methods ( Scrum or Kanban ) and OKRs to keep my teams on track
-- Quarterly team health checks allow us to correct course.
+- Quarterly team health-checks allow us to correct course and make sure our teams are in great shape.
 
 ## Technology
 I am an avid technologist curious of everything
@@ -57,7 +57,7 @@ I am an avid technologist curious of everything
 #### Software:
 - I can code to save my life
 - Preferred languages are Python and C
-- I am highly adaptable and can learn the language of the day ( not a fan of ruby, lisp or other exercise in style )
+- I am highly adaptable and can learn the language of the day
 - CI/CD git gerrit jenkins
 
 and a bunch of other stuff
@@ -96,11 +96,12 @@ C, shell, python to various levels
 
 # Work Experience
 ## [Criteo](http://www.criteo.com "Criteo's Homepage"), AdTech global leader in retargeting solutions, 2014 to present
-2.5B revenue, 2.7K employees, 8 datacenters around the world 2MW minimum footprint, Global nx100G WAN
+2.5B revenue, 2.7K employees, 8 datacenters around the world 2MW minimum footprint, Global nx100G WAN, 5M QPS
 ### The US adventure, Applying my talents to a larger scope, 2017 to present
 I built a project to move to our US office to create a set of teams that leverage the talent pool of the Valley and be as close as possible to where innovation is happening.
-Over the past 3 years I've built 3 teams from scratch two of which where totally outside of my comfort zone and areas of expertise.
-* A DBA team (3): The primary need of the Palo Alto office was to have a set of resident DataBase Administrators to help them with our SQL stack, I worked with our Paris HQ DBA teams to recruit local talent and managed to secure an experienced internal mobility to lead the team.
+Over the past 3 years I've built and managed 3 teams from scratch two of which were totally outside of my comfort zone and areas of expertise. I've groomed managers to lead these teams and they all report to me
+* a PRE team (4): PRE stands for Product Reliability Engineering, it consists in bringing the SRE method to Product Engineering. PREs sit with the product developers and clear all non-business-logic dependencies by integrating or coding the necessary connectors, they are responsible for the reliability of the product and are the first line of support when things go wrong.
+* A DBA team (3): The Palo Alto office needed to have a set of resident DataBase Administrators to help them with our SQL stack, I worked with our Paris HQ DBA teams to recruit local talent and managed to secure an experienced internal mobility to lead the team.
 * An integrated infrastructure team (4): the whole point of being in the Valley was to innovate. In that regard I applied the SRE method to datacenter infrastructure, I didn't want a DC tech, a network guru and a systems ninja, I wanted to build a team of multidisciplinary experts that would streamline the way we build-out capacity while bringing-in the latest and best practices. we delivered the following projects:
   * Procedural datacenter layouts: where historically we were planning out floorplans by hand we now had a set of scripts to layout everything in 3D
   * Overhauled the order tracking process by moving the system from MS Excel to a web based system developed by my team
@@ -111,7 +112,6 @@ Over the past 3 years I've built 3 teams from scratch two of which where totally
   * Rolled out SONiC to our greenfield builds
   * Designed the future of our disaggregated datacenters and the DCI OLS solution it would be built upon
   * Launched a set of machine learning projects to leverage the monitoring data that we have been storing. The goal is to be able to predict rather than react to failures in the network
-* Bootstrapped our local PRE team (4): PRE stands for Product Reliability Engineering, it consists in bringing the SRE method to Product Engineering. PREs sit with the product developers and clear all non-business-logic dependencies, they are responsible for the reliability of the product and are the first line of support when things go wrong.
 
 This is a very interesting hybrid role as I have to technically contribute but I also have to hold an engineering manager position. I report directly to my VP of infrastructure on one side and through dotted lines to the VP of SRE and the local SVP of Product Engineering.
 
