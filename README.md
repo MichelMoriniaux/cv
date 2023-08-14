@@ -1,123 +1,54 @@
-# Experienced SRE leader
+# Michel Moriniaux 
+#### michel.moriniaux@gmail.com +1 650 381 4968
 
-# Abstract
-20 years of experience in major Telecom, ISP and datacenter engineering.
-My job is to manage and contribute to teams that design and operate a world-class web-scale network of datacenters that provides computational power and connectivity to our Performance Marketing product.
-I believe in automating myself out of my job and creating the next generation of open automation technologies.
+## Experienced SRE leader
 
-I have extensive experience in web scale systems operations, from design to building and managing the teams and their systems. 
+## Profile
+Experienced manager with 24 years of experience in tech and 8 years in people management. I have held positions leading network engineering to supporting product development teams at leading corporations.
 
-For the past 10 years I have soft managed engineering and production operations teams
+## Work Experience
+### [LinkedIn](https://www.linkedin.com "LinkedIn Homepage"), Professional Social Network, Microsoft Corporation, 2020 to present 
+#### SRE Senior Manager, LinkedIn Talent Solutions, Jan 2023 to Present
+After 2 years managing the Hire SRE team my role was expanded to lead all of LinkedIn's Talent Solutions SRE teams ( Hire, Seekers and Jobs, Learning ) supporting the 3 Talent pillars.
+In this role I've:
+* managed up to 25 engineers and managers, currently 3 managers and 2 IC directs.
+* Successfully expanded the learnings and methods devised in the Hire team to the 2 other teams
+* In the space of 3 months, accelerated the transition of SREs to SWE roles as we move SREs out of the firefighting path and concentrating in providing the tools for reliable, transparent service ownership. focusing on regression prevention through the SDLC.
 
-For the past 5 years I have successfully held positions of tech-lead, team lead and engineering manager for global teams ( Europe/US/China ).
+#### SRE Manager, LinkedIn Hiring Solutions, 2020 to Jan 2023
+After 20 years in the networking and datacenter business it was time for a change. I decided to expand on the side job I had at Criteo managing a PRE team and dive fully into management. I joined LinkedIn on the first day of Covid shutdown to manage the team in charge of the Hiring product. This product generated most of LinkedIn's revenue. Unfortunately, reliability was not at the right level and SREs spent their time chasing fires. During my 2 years in this team I:
+* managed up to 12 engineers
+* raised the availability of the product from 98.9% to 99.97%
+  * brought reliability to the heart of SWE preoccupations
+  * Pushed SWE management to start the Major product redesign process that modularized the product monolith, culminating in a 3 year project to phase out the original LinkedIn hiring product
+  * executed on the project providing my team's support to build the right accountability
+* initiated a transformation initiative to bring more responsibility from SWEs and less gatekeeping from SREs.
+  * initial successes pushed the SRE org to accelerate their larger SRE3.0 plan that proposed similar principles.
+  * significantly reduced stress levels and fear of on-call and stopped on-call burn-out related attrition.
+* brought structure to project management by enforcing lightweight Agile methods. The team welcomed the changed as it gave them goals with increased autonomy
 
-I have diversified my leadership and helping the organization at large by building teams outside of my scope ( Database Administrators, Product Reliability Engineering ) in locations where they were needed.
-
-I am highly adaptable and a fast learner, I believe that if by the time your infrastructure reaches 50,000 servers you are not operating them like they were one million then you have lost the game and will always be playing catch-up.
-
-My pet projects are datacenter networks with a focus on Open Source Network Operating Systems.
-
-In my current scope I’m working on pushing the company's worldwide organization and tech stack to the next step in distributed architectures to allow the company to sustain its growth.
-
-# Skills
-## Management
-Accomplished manager
-- I consistently score in the top 1% of the company's manager surveys.
-- I have a very hands-off style, I trust the people I manage to do their best and they reciprocate that trust by going above and beyond.
-- I use adapted Agile methods ( Scrum or Kanban ) and OKRs to keep my teams on track
-- Quarterly team health-checks allow us to correct course and make sure our teams are in great shape.
-
-## Technology
-I am an avid technologist curious of everything
-#### Large breath of knowledge in systems and networks
-- Linux administration
-- Webscale Systems design
-- Operating system internals
-- Automation frameworks ( homegrown, Ansible, Chef )
-- Container tech
-- Datacenter IP network fabric underlays
-- Network protocols
-- WAN design
-- ISP operations
-- BGP
-- Networking and compute hardware
-- SONiC
-- Optical Line Systems ( basic )
-- P4 ( introductory )
-
-#### Datacenter:
-- Cooling systems
-- Electrical onelines
-- DataCenter management
-- DataCenter selection and due process
-- Supply chain management
-- RFP RFQ RFO processes
-- Open Compute Project
-
-#### Software:
-- I can code to save my life
-- Preferred languages are Python and C
-- I am highly adaptable and can learn the language of the day
-- CI/CD git gerrit jenkins
-
-and a bunch of other stuff
-
-## SkillPoint Build
-### Stabilizing ( Marston Behavioral DISC model )
-- Very inclusive of others in the team. No one feels left out.
-- Good organizational skills in building complex processes and following through completion while maintaining positive climate
-- Ready, willing and able to help others to grow and become more effective and successful
-- Persuades others by offering empathy, understanding, and friendship
-- Will not show hostility towards others, even if its present. no good can come from creating hostility or dissent
-- An ability to get along with a wide variety of different people
-- Handles both the human side and the task side of many projects with equal skill
-- Excellent team player and supportive of team efforts
-
-### Gallup top 5 CliftonStrengths
-- Futuristic
-- Ideation
-- Relator
-- Adaptability
-- Empathy
-
-### Languages:
-fluent in English, Français y Español ( all three are native languages )
-
-C, shell, python to various levels
-
-### hobbies:
-- astrophotography ( widefield, time-lapse )
-- flying ( SEP PPL )
-- RC flying
-- woodworking
-- robotics / automation ( home, astronomy gear, 3d manufacturing, Arduino )
-- photography
-- travel
-
-# Work Experience
-## [Criteo](http://www.criteo.com "Criteo's Homepage"), AdTech global leader in retargeting solutions, 2014 to present
+### [Criteo](http://www.criteo.com "Criteo's Homepage"), AdTech global leader in retargeting solutions, 2014 to 2020
 2.5B revenue, 2.7K employees, 8 datacenters around the world 2MW minimum footprint, Global nx100G WAN, 5M QPS
-### The US adventure, Applying my talents to a larger scope, 2017 to present
+#### Start of the US adventure, 2017 to 2020
 I built a project to move to our US office to create a set of teams that leverage the talent pool of the Valley and be as close as possible to where innovation is happening.
-Over the past 3 years I've built and managed 3 teams from scratch two of which were totally outside of my comfort zone and areas of expertise. I've groomed managers to lead these teams and they all report to me
-* a PRE team (4): PRE stands for Product Reliability Engineering, it consists in bringing the SRE method to Product Engineering. PREs sit with the product developers and clear all non-business-logic dependencies by integrating or coding the necessary connectors, they are responsible for the reliability of the product and are the first line of support when things go wrong.
-* A DBA team (3): The Palo Alto office needed to have a set of resident DataBase Administrators to help them with our SQL stack, I worked with our Paris HQ DBA teams to recruit local talent and managed to secure an experienced internal mobility to lead the team.
-* An integrated infrastructure team (4): the whole point of being in the Valley was to innovate. In that regard I applied the SRE method to datacenter infrastructure, I didn't want a DC tech, a network guru and a systems ninja, I wanted to build a team of multidisciplinary experts that would streamline the way we build-out capacity while bringing-in the latest and best practices. we delivered the following projects:
+Over 3 years I built 3 teams from scratch two of which where totally outside of my comfort zone and areas of expertise. I groomed managers to lead these teams.
+* An integrated infrastructure team (4): Leveraging Valley innovation I built a team of multidisciplinary experts that streamlined the way we build-out capacity while bringing-in the latest and best practices. we delivered the following projects:
   * Procedural datacenter layouts: where historically we were planning out floorplans by hand we now had a set of scripts to layout everything in 3D
-  * Overhauled the order tracking process by moving the system from MS Excel to a web based system developed by my team
   * Automated the rack and roll validation process by creating a Raspberry pi based appliance to do the job.
   * Criteo's quickest capacity build-out to date
-  * Brought to Criteo a complete line of Whitebox alternatives for our Clos fabrics
+  * Brought to Criteo a complete line of Whitebox alternative switches for our Clos fabrics
   * Became contributors to the SONiC OSS Network Operating System and were recognized at the OCP keynote for our efforts
   * Rolled out SONiC to our greenfield builds
   * Designed the future of our disaggregated datacenters and the DCI OLS solution it would be built upon
   * Launched a set of machine learning projects to leverage the monitoring data that we have been storing. The goal is to be able to predict rather than react to failures in the network
+* a PRE team (4): PRE stands for Product Reliability Engineering, it consists in bringing the SRE method to Product Engineering. PREs sit with the product developers and clear all non-business-logic dependencies by integrating or coding the necessary connectors, they are responsible for the reliability of the product and are the first line of support when things go wrong.
+* A DBA team (3): The Palo Alto office needed to have a set of resident Database Administrators to help them with our SQL stack, I worked with our Paris HQ DBA teams to recruit local talent and managed to secure an experienced internal mobility to lead the team.
 
 This is a very interesting hybrid role as I have to technically contribute but I also have to hold an engineering manager position. I report directly to my VP of infrastructure on one side and through dotted lines to the VP of SRE and the local SVP of Product Engineering.
 
-I am the designated successor to my VP of Infrastructure in the company's contingency and succession plan
+Employment at Criteo stopped when the company decided to close the Palo Alto Office. Thanks to my influence in the office's day to day, I was part of a 4 person team tasked to facilitate the transition or termination of 150 employees and the clean shutdown of the office's operations.
 
-### From leading network tech to leading the network engineers, 2015 to 2017
+#### From leading network tech to leading the network engineers, 2015 to 2017
 Having natural leadership in my team it became logical to give me the management of the team. This was a time of consolidation where we took everything we learned in the past 2 years and built:
 * A team of 4 engineers: 3 local and 1 remote in Beijing, China.
 * Guided 2 engineers through the P&P process to a successful promotion to Staff Operations Engineer level.
@@ -126,25 +57,21 @@ Having natural leadership in my team it became logical to give me the management
 * Designed the Edge pod and replaced expensive transit routers with a commodity switch based mini IP fabric + BGP optimizer. We no longer need expensive million route TCAMs but 10000 entries are enough with good route selection.
 * Budgeting
 
-### Bringing Criteo networks to the grownup table, 2014 to 2015
+#### Scaling Criteo Networks, 2014 to 2015
 I joined Criteo with one project in mind: build Clos Fabrics at scale.
 At the time Criteo used proprietary L2 tech from one entrenched vendor. The Premji-Lapukhov Draft had not been made public yet and the only literature available was a Microsoft presentation about using eBGP in large scale datacenters. Nevertheless I was convinced this was the way to go. The first challenge was to convince my new colleagues and with the help of several hyperscale vendors I was able to move my vision through. If we were going to build large vendor agnostic IP fabrics we would not only need new automation but also the support of other teams as we were going to drastically change the way services were provisioned and used. 
 We built a v-team with the nascent SRE team and EPMs to kickstart the project. One year later we had built Europe's largest private Hadoop cluster with 5000 nodes and a full eBGP 5-stage Clos IP Fabric with automated network provisioning.
 
-To summarize during that time I delivered the following:
+I delivered the following:
+* introduced the netDevOps concept and infrastructure as code 
 * Introduced IP fabrics
-* Created an Ansible based automation system that was vendor agnostic and could generate configurations from an abstraction ( OpenConfig was not a thing yet )
+* Created an Ansible based automation system that was vendor agnostic and could generate configurations from an abstraction
 * Deployed the largest private Hadoop cluster in EMEA
-* Kicked out the entrenched vendor who did not get hyper-scale concepts
 * Streamlined build processes to move from a boutique operation to a just-in time industrialized builds
-* Deployed a greenfield DC in Shanghai China
-* Routing policy redesign
-* Day to day Network operations and on-call rotations
-* Actively participated in hiring committees
 
-## [Prosodie Cap Gemini](http://www.odigo.com), Managed Services Provider, 2009 to 2014
+### [Prosodie Cap Gemini](http://www.odigo.com), Managed Services Provider, 2009 to 2014
 3 datacenters, 250Kw minimum footprint, National dark fiber WAN
-### From WAN to DC
+#### From WAN to DC
 I joined the company as a network engineer and rapidly rose to tech lead on the routing and WAN side of the business. I subsequently got introduced to the datacenter side and what it took to operate a multitenant system with hundreds of custom builds.
 during my stay I delivered the following projects:
 * WAN redesign: moving from SDH(EuroSonnet) loops to loops riding a DWDM muxponder network.
@@ -152,51 +79,41 @@ during my stay I delivered the following projects:
 * Redesigned the complete routing stack twice: first from a full OSPF to a MP-BGP based ISP design then to a BGP-free core design
 * Merged Prosodie's and InternetFR networks during the M&A
 * Introduced IPv6
-* Peermaster
-* Day to day Network operations and on-call rotations
-* Budgeting
 
-## [B3g Telecom](http://www.sfrbusiness.fr), VoIP Service Provider, 2006 to 2008
+### [B3g Telecom](http://www.sfrbusiness.fr), VoIP Service Provider, 2006 to 2008
 3 PoPs, 2500+ remote offices in France though DSL backhauls
-### A new challenge
+#### A new challenge
 I came on-board when B3G signed it's largest customer: France's largest supermarket chain with more than 2000 locations. My mission was to build a redundant network to all locations to be able to provide the company's VoIP centrex product to the branches.
 I solved the following challenges:
-* Engineer the complete solution
+* Engineer the infrastructure solution
 * The whole network had to be autoconfigured: CPEs, IP phones, ATAs, accounts, centrex configs, LNS
-* Create the supply chain to deploy 10 locations per day
-* Provide L2 support
-* Train L1 support and delivery managers
+* Create the supply chain to deploy and auto-provision 10 locations per day
 
-## [UUNET / Worldcom / MCI / Verizon](https://en.wikipedia.org/wiki/UUNET), ISP, 2000 to 2005
+### [UUNET / Worldcom / MCI / Verizon](https://en.wikipedia.org/wiki/UUNET), ISP, 2000 to 2005
 Global IP network, AS701,AS702,AS703, most connected IP network at the time.
-### The learning years
-My first official job. After school I knew where I wanted to work and it was at the largest ISP with the biggest pipes. I was ready to grab any job available to put my foot through the door. I thus started in the DAN ( Dial Access Networks ) team racking Max TNT NASes. After 3 months I was moved to the ABN ( Access and Backbone Networks ) team to work on the core of AS702. UUNet was ISP/Carrier networks university, I got to learn from the best in the business the best practices and the most scalable way to design carrier grade IP networks.
-During my tenure there I did:
+#### The learning years
+I Joined the ABN ( Access and Backbone Networks ) team to work on the core of AS702. UUNet was ISP/Carrier networks university, I got to learn from the best in the business the best practices and the most scalable way to design carrier grade IP networks.
+During my tenure there I:
 * Redesigned the OOB management network and deployed it to the EMEA region
 * Day to day Network operations and on-call rotations
 * Built the first STM16 network in Paris out of brand new Juniper M40 and M160
 * Designed the technical components of the new xDSL based products
-* Specil Bids technical consultant
+* Special Bids technical consultant
 
-# Education
-## [Stevens Institute of Technology](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science), Hoboken NJ, MS CS 2000 
-Specialization in telecommunications
-- Wrote WAN design tools
-- MPI Mandelbrot generator
+## Skills
+* Organizational Transitions
+* Agile Methodologies
+* Technical Leadership
+* Inclusive Team Leadership
+* Software development
+* Network Design
+* Data Center
+* English, French and Spanish native speaker
 
-## [EPITA](http://www.epita.fr), Paris France, Specialized school in Computer Science, Engineer degree 1999
-Specialized in Systems and Security.
+## Education
+#### [Stevens Institute of Technology](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science), Hoboken NJ, MS CS 2000 
 
-Projects:
-- Universal calculator
-- MMORPG engine (server side)
-- Write a shell
-- Write make
-- Java bytecode decompiler
-- Private key sequester
-- Corewar
+#### [EPITA](http://www.epita.fr), Paris France, Specialized school in Computer Science, Engineer degree 1999
 
-# Misc.
+## Misc.
 Authorized to work in the USA ( green card ) and EU ( French citizen )
-
-contact: michel.moriniaux@gmail.com  phone: +1 575 DCBUILD
