@@ -8,14 +8,14 @@ Experienced manager with 24 years of experience in tech and 8 years in people ma
 
 ## Work Experience
 ### [LinkedIn](https://www.linkedin.com "LinkedIn Homepage"), Professional Social Network, Microsoft Corporation, 2020 to present 
-#### SRE Senior Manager, LinkedIn Talent Solutions, Jan 2023 to Present
+#### SRE Sr Manager, LinkedIn Talent Solutions, Jan 2023 to Present
 After 2 years managing the Hire SRE team my role was expanded to lead all of LinkedIn's Talent Solutions SRE teams ( Hire, Seekers and Jobs, Learning ) supporting the 3 Talent pillars.
 In this role I've:
 * managed up to 25 engineers and managers, currently 3 managers and 2 IC directs.
 * Successfully expanded the learnings and methods devised in the Hire team to the 2 other teams
 * In the space of 3 months, accelerated the transition of SREs to SWE roles as we move SREs out of the firefighting path and concentrating in providing the tools for reliable, transparent service ownership. focusing on regression prevention through the SDLC.
 
-#### SRE Manager, LinkedIn Hiring Solutions, 2020 to Jan 2023
+#### SRE Manager, SRE Sr Manager, LinkedIn Hiring Solutions, 2020 to Jan 2023
 After 20 years in the networking and datacenter business it was time for a change. I decided to expand on the side job I had at Criteo managing a PRE team and dive fully into management. I joined LinkedIn on the first day of Covid shutdown to manage the team in charge of reliability of the Hiring product. This product generated most of LinkedIn's revenue. Unfortunately, reliability was not at the right level and SREs spent their time chasing fires. During my 2 years in this team I:
 * managed up to 12 engineers
 * raised the availability of the product from 98.9% to 99.97%
