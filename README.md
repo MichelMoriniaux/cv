@@ -16,7 +16,7 @@ In this role I've:
 * In the space of 3 months, accelerated the transition of SREs to SWE roles as we move SREs out of the firefighting path and concentrating in providing the tools for reliable, transparent service ownership. focusing on regression prevention through the SDLC.
 
 #### SRE Manager, LinkedIn Hiring Solutions, 2020 to Jan 2023
-After 20 years in the networking and datacenter business it was time for a change. I decided to expand on the side job I had at Criteo managing a PRE team and dive fully into management. I joined LinkedIn on the first day of Covid shutdown to manage the team in charge of the Hiring product. This product generated most of LinkedIn's revenue. Unfortunately, reliability was not at the right level and SREs spent their time chasing fires. During my 2 years in this team I:
+After 20 years in the networking and datacenter business it was time for a change. I decided to expand on the side job I had at Criteo managing a PRE team and dive fully into management. I joined LinkedIn on the first day of Covid shutdown to manage the team in charge of reliability of the Hiring product. This product generated most of LinkedIn's revenue. Unfortunately, reliability was not at the right level and SREs spent their time chasing fires. During my 2 years in this team I:
 * managed up to 12 engineers
 * raised the availability of the product from 98.9% to 99.97%
   * brought reliability to the heart of SWE preoccupations
@@ -25,11 +25,11 @@ After 20 years in the networking and datacenter business it was time for a chang
 * initiated a transformation initiative to bring more responsibility from SWEs and less gatekeeping from SREs.
   * initial successes pushed the SRE org to accelerate their larger SRE3.0 plan that proposed similar principles.
   * significantly reduced stress levels and fear of on-call and stopped on-call burn-out related attrition.
-* brought structure to project management by enforcing lightweight Agile methods. The team welcomed the changed as it gave them goals with increased autonomy
+* brought structure to project management by enforcing lightweight Agile methods. The team welcomed the change as it gave them goals with increased autonomy
 
 ### [Criteo](http://www.criteo.com "Criteo's Homepage"), AdTech global leader in retargeting solutions, 2014 to 2020
 2.5B revenue, 2.7K employees, 8 datacenters around the world 2MW minimum footprint, Global nx100G WAN, 5M QPS
-#### Start of the US adventure, 2017 to 2020
+#### Start of the US adventure, 2017 to 2020, Sr Staff Ops Lead
 I built a project to move to our US office to create a set of teams that leverage the talent pool of the Valley and be as close as possible to where innovation is happening.
 Over 3 years I built 3 teams from scratch two of which where totally outside of my comfort zone and areas of expertise. I groomed managers to lead these teams.
 * An integrated infrastructure team (4): Leveraging Valley innovation I built a team of multidisciplinary experts that streamlined the way we build-out capacity while bringing-in the latest and best practices. we delivered the following projects:
@@ -40,7 +40,7 @@ Over 3 years I built 3 teams from scratch two of which where totally outside of 
   * Became contributors to the SONiC OSS Network Operating System and were recognized at the OCP keynote for our efforts
   * Rolled out SONiC to our greenfield builds
   * Designed the future of our disaggregated datacenters and the DCI OLS solution it would be built upon
-  * Launched a set of machine learning projects to leverage the monitoring data that we have been storing. The goal is to be able to predict rather than react to failures in the network
+  * Launched a set of machine learning projects to leverage the monitoring data that we had been storing. The goal was to be able to predict rather than react to failures in the network
 * a PRE team (4): PRE stands for Product Reliability Engineering, it consists in bringing the SRE method to Product Engineering. PREs sit with the product developers and clear all non-business-logic dependencies by integrating or coding the necessary connectors, they are responsible for the reliability of the product and are the first line of support when things go wrong.
 * A DBA team (3): The Palo Alto office needed to have a set of resident Database Administrators to help them with our SQL stack, I worked with our Paris HQ DBA teams to recruit local talent and managed to secure an experienced internal mobility to lead the team.
 
@@ -48,7 +48,7 @@ This is a very interesting hybrid role as I have to technically contribute but I
 
 Employment at Criteo stopped when the company decided to close the Palo Alto Office. Thanks to my influence in the office's day to day, I was part of a 4 person team tasked to facilitate the transition or termination of 150 employees and the clean shutdown of the office's operations.
 
-#### From leading network tech to leading the network engineers, 2015 to 2017
+#### From leading network tech to leading the network engineers, 2015 to 2017, Sr Staff Network Engineer, Sr Staff Ops Lead
 Having natural leadership in my team it became logical to give me the management of the team. This was a time of consolidation where we took everything we learned in the past 2 years and built:
 * A team of 4 engineers: 3 local and 1 remote in Beijing, China.
 * Guided 2 engineers through the P&P process to a successful promotion to Staff Operations Engineer level.
@@ -57,7 +57,7 @@ Having natural leadership in my team it became logical to give me the management
 * Designed the Edge pod and replaced expensive transit routers with a commodity switch based mini IP fabric + BGP optimizer. We no longer need expensive million route TCAMs but 10000 entries are enough with good route selection.
 * Budgeting
 
-#### Scaling Criteo Networks, 2014 to 2015
+#### Scaling Criteo Networks, 2014 to 2015, Staff Network Engineer
 I joined Criteo with one project in mind: build Clos Fabrics at scale.
 At the time Criteo used proprietary L2 tech from one entrenched vendor. The Premji-Lapukhov Draft had not been made public yet and the only literature available was a Microsoft presentation about using eBGP in large scale datacenters. Nevertheless I was convinced this was the way to go. The first challenge was to convince my new colleagues and with the help of several hyperscale vendors I was able to move my vision through. If we were going to build large vendor agnostic IP fabrics we would not only need new automation but also the support of other teams as we were going to drastically change the way services were provisioned and used. 
 We built a v-team with the nascent SRE team and EPMs to kickstart the project. One year later we had built Europe's largest private Hadoop cluster with 5000 nodes and a full eBGP 5-stage Clos IP Fabric with automated network provisioning.
