@@ -1,7 +1,7 @@
 # Michel Moriniaux 
 #### michel.moriniaux@gmail.com
 
-## Experienced SRE leader
+## Experienced Tech Leader
 
 ## Profile
 Experienced manager with 25 years of experience in tech and 10 years in people management. I have held positions leading network engineering to supporting product development teams at leading corporations.
