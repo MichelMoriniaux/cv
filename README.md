@@ -1,14 +1,28 @@
 # Michel Moriniaux 
-#### michel.moriniaux@gmail.com +1 650 381 4968
+#### michel.moriniaux@gmail.com
 
 ## Experienced SRE leader
 
 ## Profile
-Experienced manager with 24 years of experience in tech and 8 years in people management. I have held positions leading network engineering to supporting product development teams at leading corporations.
+Experienced manager with 25 years of experience in tech and 10 years in people management. I have held positions leading network engineering to supporting product development teams at leading corporations.
 
 ## Work Experience
-### [LinkedIn](https://www.linkedin.com "LinkedIn Homepage"), Professional Social Network, Microsoft Corporation, 2020 to present 
-#### SRE Sr Manager, LinkedIn Talent Solutions, Jan 2023 to Present
+### [GEICO](https://www.geico.com "GEICO Homepage"), Leading Insurance Provider, Berkshire Hathaway, 2024 to present
+#### Sr Director, Infrastructure SRE, Developer Experience, Jan 2024 to Present
+I joined GEICO to accompany the Tech organization transformation from a legacy operation to a state-of-the art tech org.
+In this role I've:
+* Guided partner Infrastructure teams in the best way to design highly scalable and repeatable Datacenter and Network infrastructure.
+* Created and built 2 teams centered around Observability enablement and Compliance
+* My Observability team ensures adoption of our in-house observability stack with Infrastructure teams. We build the bespoke tools that infrastructure needs to operate their systems
+  * Built automations to automatically provision and deploy observability configurations across the GEICO fleet
+  * Built a bespoke Hardware Telemetry and Fleet Management tool for OCP servers
+  * Built a highly scalable Netflow platform with integrated stitching to provide internal path information
+* My Compliance and Catalogs team has built GEICO's first asset management and CMDB tool
+  * Pulls data from all GEICO control-planes and normalizes the data model. This tool has allowed GEICO to fulfill its compliance requirements on cybersecurity and asset compliance.
+  * Creates the Graph-of-Graphs: a system that knows how all assets relate to one another. Assets are all the elements of GEICO Infrastructure from physical assets to code pipelines and stored data.
+* Accessorily, I'm in the top 5 code contributors at the Sr Director level.
+### [LinkedIn](https://www.linkedin.com "LinkedIn Homepage"), Professional Social Network, Microsoft Corporation, 2020 to 2024 
+#### SRE Sr Manager, LinkedIn Talent Solutions, Jan 2023 to Jan 2024
 After 2 years managing the Hire SRE team my role was expanded to lead all of LinkedIn's Talent Solutions SRE teams ( Hire, Seekers and Jobs, Learning ) supporting the 3 Talent pillars.
 In this role I've:
 * managed up to 25 engineers and managers, currently 3 managers and 2 IC directs.
